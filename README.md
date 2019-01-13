@@ -1,8 +1,7 @@
-# This is a group project which was cloned from Darekaze. For details please observe the LICENSE.md
-
 # Audifactory
-
 A elegant website that sells various albums
+
+This is a group project which was cloned from Darekaze. For details please observe the LICENSE.md
 
 ## Instruction
 
